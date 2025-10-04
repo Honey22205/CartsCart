@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CartCast Logo](https://images.pexels.com/photos/3985062/pexels-photo-3985062.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![CartCast Logo](https://images.pexels.com/photos/3985062/pexels-photo-3985062.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=full)
 
 ### *Shop Together. Save Together. Win Together.*
 
