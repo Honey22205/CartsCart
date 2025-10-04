@@ -415,7 +415,7 @@ git push origin feature/amazing-feature
 
 [![Email](https://img.shields.io/badge/📧_Email-honeypriya.222005@gmail.com-red?style=for-the-badge)](mailto:honeypriya.222005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/honeypriya)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-green?style=for-the-badge)](https://honeypriya.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-green?style=for-the-badge)](https://github.com/Honey22205)
 
 *"Building the future of collaborative commerce, one line of code at a time."*
 
